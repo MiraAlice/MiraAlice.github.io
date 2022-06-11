@@ -2946,7 +2946,7 @@ input, select, textarea {
 			.gallery a img {
 				display: block;
 				/* height: 25vw; modificato */
-				min-height: 18rem;
+				/* min-height: 18rem; modificato */
 				object-fit: cover;
 				object-position: center;
 				width: 100%;
@@ -2957,7 +2957,7 @@ input, select, textarea {
 			}
 
 				.gallery a.landscape img {
-					height: 30vw;
+					/* height: 30vw; */
 				}
 
 			.gallery a.portrait img {
