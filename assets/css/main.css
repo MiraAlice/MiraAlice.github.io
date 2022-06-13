@@ -3092,6 +3092,7 @@ input, select, textarea {
 				opacity: 0;
 			}
 
+		/* modificato
 		@media screen and (max-width: 1152px) {
 
 			.gallery a img {
@@ -3154,6 +3155,7 @@ input, select, textarea {
 			}
 
 		}
+		*/
 
 /* Feature Icons */
 
